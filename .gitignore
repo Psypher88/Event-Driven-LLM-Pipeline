@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.o
+server.exe
+logs/
+data/
+.venv/
+.claude/
+.vscode/
+DEV_NOTES.md
+PLAN.md
